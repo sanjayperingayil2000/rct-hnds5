@@ -1,0 +1,47 @@
+@import url('https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css');
+body{
+    background-color: rgb(88, 0, 0);
+    margin-left: 40px;
+}
+.first{
+    margin-top: 30px;
+}
+.bg-primary{
+    border-radius: 5px;
+    margin: 10px;
+}
+p{
+    color:white;
+}
+hr{
+    position: relative;
+    top: -30px;
+    color: lightcyan;
+}
+#ch{
+    border-radius: 5px;
+    height: 40px;
+    position: relative;
+    left: 40px;
+    top: 40px;
+}
+#ch1{
+    position: relative;
+    height: 40px;
+    left: 60px;
+    top: 40px;
+}
+h2{
+    color: white;
+    text-align: center;
+    margin-top: 30px;
+}
+.para{
+    margin: 40px 10px 10px 10px;
+}
+.para1{
+    margin: 10px 10px 10px 10px;
+}
+ul li{
+    color: white;
+}
